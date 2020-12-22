@@ -1,4 +1,4 @@
-let inc = 10;
+let inc = 1110;
 
 console.log(inc++);
 console.log(inc);
